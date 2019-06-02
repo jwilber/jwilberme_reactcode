@@ -3,15 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "d3-axis": "^1.0.12",
+    "d3-scale": "^3.0.0",
+    "d3-selection": "^1.4.0",
+    "p5": "^0.8.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-p5-wrapper": "^1.2.0",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postbuild": "cp -r ./projects/* ./build/ && cp -r ./blogposts ./build"
   },
   "eslintConfig": {
     "extends": "react-app"

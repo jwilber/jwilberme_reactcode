@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+h1 {
+	font-family: 'Comfortaa';
+	text-align: center;
+	font-size: 25px;
+	font-weight: 500;
+	margin: 2rem auto;
+	color: black;
+	margin-bottom: 0;
+}
+
+a.about {
+  font-size: 1rem;
+  font-weight: 400;
+  text-decoration: none;
+  color: rgb(141, 211, 199);
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.intro {
+	margin: 2rem auto;
+	text-align: center;
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	font-weight: 400;
+	color: #444;
+}
+
+.data_science {
+    color: #67c7d3;
+    font-weight: 600;
+}
+
+.software {
+    color: #dbb64b;
+    font-weight: 600;
+}
+
+.information {
+    color: coral;
+    font-weight: 600;
+}
+
+.hr-width {
+    max-width: 25%;
+    padding: 0 0 0;
+    color: #d3d3d3;
+    opacity: .1;
+}
+
+.svg {
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+
+.tick {
+	opacity: .1;
+}
+
+path.domain {
+	opacity: .1;
+}
+
+/* Stuff for Projects*/
+.project-grid {
+	max-width: 65%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.project-wrapper {
+	flex-basis: 25%;
+	padding: 1.9rem;
+	margin-bottom: 0;
+}
+
+img{
+    width: 100%;
+    max-width: 300px;
+    height: 100%;
+    max-height: 300px;
+}
+
+.project-wrapper img {
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.25);
+    margin-bottom: 1rem;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.project-title {
+    font-size: 16px;
+    font-family: 'Comfortaa';
+    font-weight: normal;
+    display: table-row;
+    line-height: 1.6;
+}
+
+.project-description {
+    font-family: "Comfortaa";
+    font-size: 14px;
+    font-weight: 400;
+    color: #aaa;
+}
+
+.project-wrapper, .project-description {
+    width: 85%;
+}
+
+li:hover .project-description:not(.no-hover) {
+    color: black;
+}
+
+li img {
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+li:hover img:not(.no-hover) {
+    -ms-transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+    transform: scale(1.02);
+}
+
+.background-shadow {
+    width: 100%;
+    height: 100%;
+    background: #F96800; /* Old browsers */
+    background: -moz-linear-gradient(top,  #F96800 0%, #ff2071 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F96800), color-stop(100%,#ff2071)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #F96800 0%,#ff2071 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #F96800 0%,#ff2071 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #F96800 0%,#ff2071 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #F96800 0%,#ff2071 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F96800', endColorstr='#ff2071',GradientType=0 ); /* IE6-9 */
+    opacity: 0.15;
+    z-index: 1;
+    position: fixed;
+    display: none;
+}
+
+body, a {
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+li .project-description {
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+ul {
+  list-style-type: none;
+}
+/*Posts*/
+
+.post-grid {
+	max-width: 50%;
+	margin: 5rem auto;
+	text-align: left;
+	padding-left: 10%;
+	list-style-type: disc;
+}
+
+.post {
+	padding-top: 1rem;
+	font-family: 'Comfortaa';
+	color: #444;
+	font-size: 1rem;
+	text-decoration: none;
+}
+
+.post:hover {
+	text-decoration: underline;
+	color: black;
+}
+
+
+
+
+
+
+/* Style the top navigation bar */
+.topnav {
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+/* Style the navigation bar links */
+.topnav a {
+font-family: "Comfortaa";
+  padding-right: 1.5rem;
+  text-align: left;
+  font-size: 1rem;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  font-weight: 200;
+  text-decoration: underline;
+}
+
+.about {
+	max-width: 50%;
+	margin: 2rem auto;
+	text-align: center;
+	font-family: 'Comfortaa';
+	font-size: 1rem;
+	font-weight: 400;
+	color: #444;
+}
