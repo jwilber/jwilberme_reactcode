@@ -6,14 +6,15 @@ import me5 from '../Images/me5.png';
 
 export default function jareds(p){
     const numImgs = 5;
-    const spring = 0.025;
+    const spring = p.windowWidth > 600 ? 0.03 : 0.0015;
     let canvas;
     let jareds = [];
     let img1, img2, img3, img4, img5;
 
 
     p.windowResized = () => {
-      p.resizeCanvas(p.windowWidth, p.displayHeight + 100);
+      let resizedHeight = p.windowWidth > 600 ? p.displayHeight * 1.8 : p.displayHeight * 4;
+      p.resizeCanvas(p.windowWidth, resizedHeight);
     }
 
 
@@ -28,7 +29,7 @@ export default function jareds(p){
 
     p.setup = () => {
       let imgArray = [img1, img2, img3, img4, img5]
-      canvas = p.createCanvas(p.windowWidth, p.displayHeight + 150);
+      canvas = p.createCanvas(p.windowWidth, p.displayHeight * 1.8);
       canvas.position(0, 0);
       canvas.style('z-index', -1)
 

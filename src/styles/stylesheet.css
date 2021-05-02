@@ -68,7 +68,7 @@ path.domain {
 
 /* Stuff for Projects*/
 .project-grid {
-	max-width: 65%;
+	max-width: 75%;
 	margin: 0 auto;
 	display: flex;
 	flex-wrap: wrap;
@@ -225,3 +225,20 @@ font-family: "Comfortaa";
 	font-weight: 400;
 	color: #444;
 }
+
+@media screen and ( max-width: 500px ) { 
+     .row { flex-direction: column; }
+
+     .project-grid {
+        max-width: 90%;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      .project-wrapper {
+        flex-basis: 90%;
+        padding: 1.9rem;
+        margin-bottom: 0;
+      }
+   }

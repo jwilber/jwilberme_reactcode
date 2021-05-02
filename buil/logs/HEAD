@@ -1,0 +1,102 @@
+0000000000000000000000000000000000000000 91d252b3b02056314d0b0ef14e4437526700f2d3 Jared Wilber <j.wilber92@gmail.com> 1539329905 -0700	clone: from https://github.com/jwilber/jwilber.github.io.git
+91d252b3b02056314d0b0ef14e4437526700f2d3 1592f561da3a1f685a6eff107a9c44433a26f80f Jared Wilber <j.wilber92@gmail.com> 1539330578 -0700	pull: Fast-forward
+1592f561da3a1f685a6eff107a9c44433a26f80f 112a3d2f1b9c5be81b9c5508f3c1caebea9db474 Jared Wilber <j.wilber92@gmail.com> 1539330627 -0700	commit: nuked
+112a3d2f1b9c5be81b9c5508f3c1caebea9db474 655780bc225fe54b298fa8d97d2d10fe048cf386 Jared Wilber <j.wilber92@gmail.com> 1539330751 -0700	pull: Fast-forward
+655780bc225fe54b298fa8d97d2d10fe048cf386 1b9b1075d3f957883e8c464c228f6e14d786c17b Jared Wilber <j.wilber92@gmail.com> 1539330828 -0700	commit: added new stuff to site
+1b9b1075d3f957883e8c464c228f6e14d786c17b ebbe2888051a6df81caa550e8b64d9845f804070 Jared Wilber <j.wilber92@gmail.com> 1539331034 -0700	commit: Added berkeley article image
+ebbe2888051a6df81caa550e8b64d9845f804070 0123d7cbf94143fcaf96d56c758d8c0ca433f3ec Jared Wilber <j.wilber92@gmail.com> 1539331229 -0700	commit: added berkeley image
+0123d7cbf94143fcaf96d56c758d8c0ca433f3ec 434a12fe692fe22816b8fec809fae987897310c4 Jared Wilber <j.wilber92@gmail.com> 1539479845 -0700	pull: Fast-forward
+434a12fe692fe22816b8fec809fae987897310c4 7f54f4893c780a8649acd3069a00700d3aa7bdc5 Jared Wilber <jdwlbr@gmail.com> 1539490675 -0700	commit: removed weird title
+7f54f4893c780a8649acd3069a00700d3aa7bdc5 ddd44808c6a35352be49b5d7ae001d1932960c61 Jared Wilber <jdwlbr@gmail.com> 1539494049 -0700	commit: added [In Progress] to permutation test
+ddd44808c6a35352be49b5d7ae001d1932960c61 67d3b9094196334d8870ec462d5b4fa882e0a388 Jared Wilber <jdwlbr@gmail.com> 1539494128 -0700	commit: added permutationTest
+67d3b9094196334d8870ec462d5b4fa882e0a388 07649126a54424664261e529ef800358dab52cf4 Jared Wilber <jdwlbr@gmail.com> 1539494190 -0700	commit: removed 's'
+07649126a54424664261e529ef800358dab52cf4 e2ea7af12a98ef52260bfcc42a7bf1dc0d1777df Jared Wilber <jdwlbr@gmail.com> 1539494259 -0700	commit: fixed permutationTest href
+e2ea7af12a98ef52260bfcc42a7bf1dc0d1777df eb13974ad2673fc7b213ec92fc259d25d2fc7d41 Jared Wilber <jdwlbr@gmail.com> 1539494957 -0700	commit: removed wonky permutatointest
+eb13974ad2673fc7b213ec92fc259d25d2fc7d41 6220cc4956394747b55ed918b94a099b0d60a6fb Jared Wilber <jdwlbr@gmail.com> 1539495436 -0700	commit: added temp permTest article
+6220cc4956394747b55ed918b94a099b0d60a6fb e0d7c67eb0dac77b6e3d356ffbc938d8fa3e98e3 Jared Wilber <jdwlbr@gmail.com> 1539495449 -0700	commit: removed repo
+e0d7c67eb0dac77b6e3d356ffbc938d8fa3e98e3 aeae6b6b467d2e81a13f671e9508bc1f4113c4c1 Jared Wilber <jdwlbr@gmail.com> 1539495589 -0700	commit: added temp permtest article
+aeae6b6b467d2e81a13f671e9508bc1f4113c4c1 4a5ccf35157a12f2f04dd808a7a7597799ede3f9 Jared Wilber <jdwlbr@gmail.com> 1539496259 -0700	commit: added warning
+4a5ccf35157a12f2f04dd808a7a7597799ede3f9 d24ae5603f6acca4772b7f2e516a7b2a3fde7b02 Jared Wilber <jdwlbr@gmail.com> 1539496441 -0700	commit: added google analytics
+d24ae5603f6acca4772b7f2e516a7b2a3fde7b02 a0d5b11317cb5e6d3de14f356f00c01a225e1a74 Jared Wilber <jdwlbr@gmail.com> 1539497293 -0700	commit: machine learning => data engineering in intro text
+a0d5b11317cb5e6d3de14f356f00c01a225e1a74 843fc4ed907d0d3514514a2e1edf9a7149bbd0f1 Jared Wilber <jdwlbr@gmail.com> 1539500314 -0700	commit: Added aboutme page
+843fc4ed907d0d3514514a2e1edf9a7149bbd0f1 ce6d7fd77bcbfda8d1516a9926d1be223ac9f037 Jared Wilber <jdwlbr@gmail.com> 1539501029 -0700	commit: added llama gif to about me
+ce6d7fd77bcbfda8d1516a9926d1be223ac9f037 1a67c0d7d08c4859f89e60d83c4ab69b2f86ee1b Jared Wilber <jdwlbr@gmail.com> 1540089322 -0700	commit: updated css
+1a67c0d7d08c4859f89e60d83c4ab69b2f86ee1b 0c7de44e209d11d97e4a9dc8c53a856ab66f5309 Jared Wilber <jdwlbr@gmail.com> 1540089335 -0700	pull: Merge made by the 'recursive' strategy.
+0c7de44e209d11d97e4a9dc8c53a856ab66f5309 7aba9354a678039376bef5794dab951dbd7f0851 Jared Wilber <jdwlbr@gmail.com> 1540344728 -0700	commit: preview for drew
+7aba9354a678039376bef5794dab951dbd7f0851 9e07645d79c52466aebd104ff90d2c95a0e7d60c Jared Wilber <jdwlbr@gmail.com> 1540345168 -0700	commit: removed left padding
+9e07645d79c52466aebd104ff90d2c95a0e7d60c 1c76ffeec518cde1a053b7d945276684a188d295 Jared Wilber <jdwlbr@gmail.com> 1543126853 -0700	commit: added drews site
+1c76ffeec518cde1a053b7d945276684a188d295 7603f844f6830b5f212e3e896e852be1607474e9 Jared Wilber <jdwlbr@gmail.com> 1549943092 -0700	commit: removed permtest preview
+7603f844f6830b5f212e3e896e852be1607474e9 c20b9a9f4c7cccb1a08e638acdbc951920f7668d Jared Wilber <jdwlbr@gmail.com> 1549943104 -0700	pull: Merge made by the 'recursive' strategy.
+c20b9a9f4c7cccb1a08e638acdbc951920f7668d 2ec77922d84edd448d1fbaa263c693a6db216815 Jared Wilber <jdwlbr@gmail.com> 1553226951 -0700	pull: Fast-forward
+2ec77922d84edd448d1fbaa263c693a6db216815 e6a67034a5bdd53f3603f849a157c4f690a16a59 Jared Wilber <jdwlbr@gmail.com> 1553227374 -0700	commit: mobile
+e6a67034a5bdd53f3603f849a157c4f690a16a59 ddc7b29b0e6ea352106b13f91b99769e400d9ff7 Jared Wilber <jdwlbr@gmail.com> 1553227784 -0700	commit: mobile
+ddc7b29b0e6ea352106b13f91b99769e400d9ff7 f28bdce70dac5f50c2fdec2ca291d280c45a42b2 Jared Wilber <jdwlbr@gmail.com> 1553228323 -0700	commit: mobile
+f28bdce70dac5f50c2fdec2ca291d280c45a42b2 da45f7089e29eb00a92470dbb8188a70acf9781e Jared Wilber <jdwlbr@gmail.com> 1553228616 -0700	commit: mob
+da45f7089e29eb00a92470dbb8188a70acf9781e 42f68d59e8b7e28183f67a846fe57662a22b23ca Jared Wilber <jdwlbr@gmail.com> 1553228792 -0700	commit: m
+42f68d59e8b7e28183f67a846fe57662a22b23ca 271498dec2ffed91b65f5abfd0088709b0013137 Jared Wilber <jdwlbr@gmail.com> 1553228938 -0700	commit: m
+271498dec2ffed91b65f5abfd0088709b0013137 b59bce196ab6470b45f23461de44c8b1b221a374 Jared Wilber <jdwlbr@gmail.com> 1553229468 -0700	commit: mob5
+b59bce196ab6470b45f23461de44c8b1b221a374 d692eff5d8f74b729e2d2665d655b762051bfdd5 Jared Wilber <jdwlbr@gmail.com> 1553229848 -0700	commit: mob6
+d692eff5d8f74b729e2d2665d655b762051bfdd5 b275af88eb6e36bd77348c24a3cf91d382190194 Jared Wilber <jdwlbr@gmail.com> 1553230224 -0700	commit: mob6
+b275af88eb6e36bd77348c24a3cf91d382190194 51b84f8b30ea03c3ca3c75176ce7746cc5ce19b2 Jared Wilber <jdwlbr@gmail.com> 1553230528 -0700	commit: mob6
+51b84f8b30ea03c3ca3c75176ce7746cc5ce19b2 9efcd7e78ebaa1b96d8d4f5d995e6ef77ffa5bb0 Jared Wilber <jdwlbr@gmail.com> 1553230869 -0700	commit: mob6
+9efcd7e78ebaa1b96d8d4f5d995e6ef77ffa5bb0 fbe4ff133b11b093b865b11dd371202d1b358f8e Jared Wilber <jdwlbr@gmail.com> 1553230929 -0700	commit: mob6
+fbe4ff133b11b093b865b11dd371202d1b358f8e 079ca14fa2d23d167730a63f54809bddbc6995f8 Jared Wilber <jdwlbr@gmail.com> 1553231821 -0700	commit: mob6
+079ca14fa2d23d167730a63f54809bddbc6995f8 231f7a67f480b3a0196942d9ebd3c4c03cc45ad7 Jared Wilber <jdwlbr@gmail.com> 1553232082 -0700	commit: mob6
+231f7a67f480b3a0196942d9ebd3c4c03cc45ad7 243c1e26fa0c4369daab86ad3c3d45f78a82e018 Jared Wilber <jdwlbr@gmail.com> 1553232266 -0700	commit: mob6
+243c1e26fa0c4369daab86ad3c3d45f78a82e018 76b339646d01c6017d72af862f324beacf475fb8 Jared Wilber <jdwlbr@gmail.com> 1553232490 -0700	commit: mob6
+76b339646d01c6017d72af862f324beacf475fb8 3d6d52ef585e0262f9771b18f9c97e83e66a9a0d Jared Wilber <jdwlbr@gmail.com> 1553233469 -0700	commit: mob6
+3d6d52ef585e0262f9771b18f9c97e83e66a9a0d 243866a52b7d8c2c732e33020d4ecec09d73f923 Jared Wilber <jdwlbr@gmail.com> 1553658409 -0700	commit: removed final event svg title
+243866a52b7d8c2c732e33020d4ecec09d73f923 18f9af38cbf6aa9e9826a450444b0c37e61a57a4 Jared Wilber <jdwlbr@gmail.com> 1553658713 -0700	commit: added underline to a:hover
+18f9af38cbf6aa9e9826a450444b0c37e61a57a4 a75963e31c0323a9974bdfdf7bbbae973ccdf16b Jared Wilber <jdwlbr@gmail.com> 1553659966 -0700	commit: updated home page
+a75963e31c0323a9974bdfdf7bbbae973ccdf16b 4aa852ee8d950c878268459c9f3c5f81c48c365c Jared Wilber <jdwlbr@gmail.com> 1553662248 -0700	commit: updated css
+4aa852ee8d950c878268459c9f3c5f81c48c365c 2a091332184ad4b2fcf86c7239433731f868e162 Jared Wilber <jdwlbr@gmail.com> 1553662980 -0700	commit: removed side for mobile
+2a091332184ad4b2fcf86c7239433731f868e162 93c021589e5cbe337b40ef43738082ec0456c236 Jared Wilber <jdwlbr@gmail.com> 1553662997 -0700	commit: updated permutation test text
+93c021589e5cbe337b40ef43738082ec0456c236 df5888b83d9e0669f6bc924160d9682e8f09ad52 Jared Wilber <jdwlbr@gmail.com> 1553663898 -0700	commit: mobile font test
+df5888b83d9e0669f6bc924160d9682e8f09ad52 b0d3c76fd94afbf1a9fddcbf1375ca0f8ab939f8 Jared Wilber <jdwlbr@gmail.com> 1553668409 -0700	pull: Fast-forward
+b0d3c76fd94afbf1a9fddcbf1375ca0f8ab939f8 852bb7a56179f01c713c85de250a441f1f753e07 Jared Wilber <jdwlbr@gmail.com> 1553668494 -0700	commit: removed 'index.html' links
+852bb7a56179f01c713c85de250a441f1f753e07 8ba1419261fec38a3b8266ff319118017de4258d Jared Wilber <jdwlbr@gmail.com> 1553703087 -0700	commit: changed intro sentence
+8ba1419261fec38a3b8266ff319118017de4258d 86308ac6f88b0ca88260c09cd6e1524ca0dcad71 Jared Wilber <jdwlbr@gmail.com> 1553808891 -0700	commit: removed permTestTemp
+86308ac6f88b0ca88260c09cd6e1524ca0dcad71 51e2b8dd91fe41dec63c867e3ebb40b7788fbab3 Jared Wilber <jdwlbr@gmail.com> 1553808917 -0700	commit: test response value
+51e2b8dd91fe41dec63c867e3ebb40b7788fbab3 61e215a25acf11f035c97c8e095884c9cef5be6c Jared Wilber <jdwlbr@gmail.com> 1553839788 -0700	commit: added axis on transition3
+61e215a25acf11f035c97c8e095884c9cef5be6c 61e215a25acf11f035c97c8e095884c9cef5be6c Jared Wilber <jdwlbr@gmail.com> 1553839912 -0700	checkout: moving from master to rough
+61e215a25acf11f035c97c8e095884c9cef5be6c 61e215a25acf11f035c97c8e095884c9cef5be6c Jared Wilber <jdwlbr@gmail.com> 1553928885 -0700	checkout: moving from rough to master
+61e215a25acf11f035c97c8e095884c9cef5be6c 5d94e4bffd8564f30e5a4f6096afcc6ef8ee0cad Jared Wilber <jdwlbr@gmail.com> 1553929113 -0700	commit: x-axis shows earlier
+5d94e4bffd8564f30e5a4f6096afcc6ef8ee0cad e0aa222e480e66fa4b717ba242173fa4f4fe3e39 Jared Wilber <jdwlbr@gmail.com> 1553978201 -0700	commit: changed resposne text color
+e0aa222e480e66fa4b717ba242173fa4f4fe3e39 5f62bf4fc715f687478e8c0e6ca5f2972ee14b36 Jared Wilber <jdwlbr@gmail.com> 1553978402 -0700	commit: removed unncessary code
+5f62bf4fc715f687478e8c0e6ca5f2972ee14b36 839742d8e68a2be6f8e85f261c900385cd7c6c4b Jared Wilber <jdwlbr@gmail.com> 1553978520 -0700	commit: changed resposne stroke-width
+839742d8e68a2be6f8e85f261c900385cd7c6c4b 61e215a25acf11f035c97c8e095884c9cef5be6c Jared Wilber <jdwlbr@gmail.com> 1553978604 -0700	checkout: moving from master to rough
+61e215a25acf11f035c97c8e095884c9cef5be6c 839742d8e68a2be6f8e85f261c900385cd7c6c4b Jared Wilber <jdwlbr@gmail.com> 1553995558 -0700	pull: Fast-forward
+839742d8e68a2be6f8e85f261c900385cd7c6c4b ac2165620817910c2efc9654b582758564558964 Jared Wilber <jdwlbr@gmail.com> 1554015066 -0700	commit: made histogram roughjs
+ac2165620817910c2efc9654b582758564558964 839742d8e68a2be6f8e85f261c900385cd7c6c4b Jared Wilber <jdwlbr@gmail.com> 1554015103 -0700	checkout: moving from rough to master
+839742d8e68a2be6f8e85f261c900385cd7c6c4b ac2165620817910c2efc9654b582758564558964 Jared Wilber <jdwlbr@gmail.com> 1554015115 -0700	merge rough: Fast-forward
+ac2165620817910c2efc9654b582758564558964 c7f2bec963cbef77ccfe4c76cc59c1de056e4f8a Jared Wilber <jdwlbr@gmail.com> 1554062101 -0700	commit: fixed scroll-up issue where nodes mapped off-screen
+c7f2bec963cbef77ccfe4c76cc59c1de056e4f8a 9a14ac6a218deb23d7987a3e97e9b0acf2d2b103 Jared Wilber <jdwlbr@gmail.com> 1554063016 -0700	commit: adjusted stroke-width and roughness
+9a14ac6a218deb23d7987a3e97e9b0acf2d2b103 ddec87f124f38782c5957ab41943c4344293547d Jared Wilber <jdwlbr@gmail.com> 1554063322 -0700	commit: mobile rough distribution dot size
+ddec87f124f38782c5957ab41943c4344293547d 508755045cecd60da6a49defd03c64f9b0a00bf6 Jared Wilber <jdwlbr@gmail.com> 1554073022 -0700	commit: testing sk8site
+508755045cecd60da6a49defd03c64f9b0a00bf6 85cb5622bc310c97e88a94c860fb60d87eabae2c Jared Wilber <jdwlbr@gmail.com> 1554073293 -0700	commit: changed mobile testStat scale
+85cb5622bc310c97e88a94c860fb60d87eabae2c 9ffd8e7d649c03bcb4bba90fb18c02d8fda006af Jared Wilber <jdwlbr@gmail.com> 1554073608 -0700	commit: fixed links
+9ffd8e7d649c03bcb4bba90fb18c02d8fda006af 743248e19c1525f02f36d207846984806e91662f Jared Wilber <jdwlbr@gmail.com> 1554081439 -0700	commit: resized teststat node on mobile
+743248e19c1525f02f36d207846984806e91662f 4e799a6db24a48625fe6559050d16bd96d62d3ac Jared Wilber <jdwlbr@gmail.com> 1554271215 -0700	pull: Fast-forward
+4e799a6db24a48625fe6559050d16bd96d62d3ac dedbd0610b249316a8dbe783e0c3173b7c9e7f48 Jared Wilber <jdwlbr@gmail.com> 1554271248 -0700	commit: increased dotDistributionScale
+dedbd0610b249316a8dbe783e0c3173b7c9e7f48 f64eea8d173a9bfabda0c5711dbbd2096664dfb4 Jared Wilber <jdwlbr@gmail.com> 1554326033 -0700	commit: updated 'n=16
+f64eea8d173a9bfabda0c5711dbbd2096664dfb4 dd7750f8ebeb0c541cd0a3b76d45397af6287c57 Jared Wilber <jdwlbr@gmail.com> 1554326771 -0700	commit: mobile: x position for finalText
+dd7750f8ebeb0c541cd0a3b76d45397af6287c57 6a15c57e0c7e03915a479ecdeb57b8e074afc544 Jared Wilber <jdwlbr@gmail.com> 1554326816 -0700	commit: main: finalText bold
+6a15c57e0c7e03915a479ecdeb57b8e074afc544 1ec11aac695452574ad84455e308d614b9a1ddd2 Jared Wilber <jdwlbr@gmail.com> 1554355532 -0700	commit: .8 -> 0.08
+1ec11aac695452574ad84455e308d614b9a1ddd2 2cb189e3f4446fbfd48d55da2f1e1a411c625bb7 Jared Wilber <j.wilber92@gmail.com> 1559341628 -0700	pull: Fast-forward
+2cb189e3f4446fbfd48d55da2f1e1a411c625bb7 e0a789c7ff9d4213142d583bb8559c15e6e3a1cf Jared Wilber <j.wilber92@gmail.com> 1559341730 -0700	commit: added h1
+e0a789c7ff9d4213142d583bb8559c15e6e3a1cf 5096c27d5eaa1b298a7507773c06192addb8d43b Jared Wilber <j.wilber92@gmail.com> 1559440624 -0700	commit: rebuilt site with react
+5096c27d5eaa1b298a7507773c06192addb8d43b 75bde19fe33b9415e226cc36b07b09a4f998db24 Jared Wilber <j.wilber92@gmail.com> 1559516830 -0700	commit: trying to fix routing issue
+75bde19fe33b9415e226cc36b07b09a4f998db24 75bde19fe33b9415e226cc36b07b09a4f998db24 Jared Wilber <j.wilber92@gmail.com> 1559517071 -0700	reset: moving to HEAD
+75bde19fe33b9415e226cc36b07b09a4f998db24 75bde19fe33b9415e226cc36b07b09a4f998db24 Jared Wilber <j.wilber92@gmail.com> 1559517083 -0700	reset: moving to HEAD
+75bde19fe33b9415e226cc36b07b09a4f998db24 681c151801cf9b9d8d11d4c1d59319ccfdb22249 Jared Wilber <j.wilber92@gmail.com> 1559517309 -0700	commit: added about
+681c151801cf9b9d8d11d4c1d59319ccfdb22249 4270ba3c0504da8b617c64b9fa1dc3455b9a0ca0 Jared Wilber <j.wilber92@gmail.com> 1559517430 -0700	commit (merge): Merge branch 'master' of https://github.com/jwilber/jwilber.github.io
+4270ba3c0504da8b617c64b9fa1dc3455b9a0ca0 c05db25b4341d280c8952f9c299fb2c693425273 Jared Wilber <j.wilber92@gmail.com> 1559517565 -0700	commit: added blog base
+c05db25b4341d280c8952f9c299fb2c693425273 57d632fec7aafdf9f7a453a302e261b86be7e131 Jared Wilber <j.wilber92@gmail.com> 1559522066 -0700	commit: updated favicon
+57d632fec7aafdf9f7a453a302e261b86be7e131 401a7e8d357198ed9b4eb11728bdcb24f797f9e3 Jared Wilber <j.wilber92@gmail.com> 1563669909 -0700	commit: updating with new post
+401a7e8d357198ed9b4eb11728bdcb24f797f9e3 eaaf70a02275c0b8e8106d50eaac88c643902e86 Jared Wilber <j.wilber92@gmail.com> 1563670535 -0700	commit: linked to mah twitter
+eaaf70a02275c0b8e8106d50eaac88c643902e86 b830d550a51b98b51bc6f8f9cc11363399d0139b Jared Wilber <j.wilber92@gmail.com> 1563682893 -0700	commit: added favicon for sperm hero
+b830d550a51b98b51bc6f8f9cc11363399d0139b 7919908c22480ae77de26c741a14fe390eedc826 Jared Wilber <j.wilber92@gmail.com> 1563682978 -0700	commit: updated
+7919908c22480ae77de26c741a14fe390eedc826 dd94b2854444f0f1dbf6cb1d0ee202fbfa4ed2b2 Jared Wilber <j.wilber92@gmail.com> 1563684270 -0700	commit: updated
+dd94b2854444f0f1dbf6cb1d0ee202fbfa4ed2b2 48d02f4be1ac163c9289a7eaf01fc725c974e4f7 Jared Wilber <j.wilber92@gmail.com> 1566440512 -0700	commit: site overhaul
+48d02f4be1ac163c9289a7eaf01fc725c974e4f7 450a610d69b3b551ece067521de2e7b280c84b9b Jared Wilber <j.wilber92@gmail.com> 1566440527 -0700	pull: Merge made by the 'recursive' strategy.
+450a610d69b3b551ece067521de2e7b280c84b9b d86d42364aeee00980027a0080cc727ea53cb20d Jared Wilber <j.wilber92@gmail.com> 1566441031 -0700	commit: overhaul
